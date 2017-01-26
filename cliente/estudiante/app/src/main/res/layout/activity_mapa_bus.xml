@@ -1,0 +1,40 @@
+<RelativeLayout android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/barra">
+        <TextView
+            android:id="@+id/Titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="UNAB"
+            android:textSize="28dp"/>
+        <Button
+            android:id="@+id/botonRecargar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="actualizar"/>
+    </LinearLayout>
+
+
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_below="@+id/barra"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="co.edu.unab.localizador.estudiante.MapaBus" />
+
+
+</RelativeLayout>
+
