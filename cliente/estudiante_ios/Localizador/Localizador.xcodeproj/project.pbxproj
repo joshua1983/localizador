@@ -14,6 +14,7 @@
 		CA55ACFB1E39A303004CCB5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA55ACF91E39A303004CCB5B /* LaunchScreen.storyboard */; };
 		CA55AD061E39A303004CCB5B /* LocalizadorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA55AD051E39A303004CCB5B /* LocalizadorTests.swift */; };
 		CA55AD111E39A303004CCB5B /* LocalizadorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA55AD101E39A303004CCB5B /* LocalizadorUITests.swift */; };
+		CAF272A91E3AAED900A55FD9 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = CAF272A81E3AAED900A55FD9 /* Podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CA55AD0C1E39A303004CCB5B /* LocalizadorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalizadorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA55AD101E39A303004CCB5B /* LocalizadorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizadorUITests.swift; sourceTree = "<group>"; };
 		CA55AD121E39A303004CCB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAF272A81E3AAED900A55FD9 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		CA55ACE41E39A302004CCB5B = {
 			isa = PBXGroup;
 			children = (
+				CAF272A81E3AAED900A55FD9 /* Podfile */,
 				CA55ACEF1E39A303004CCB5B /* Localizador */,
 				CA55AD041E39A303004CCB5B /* LocalizadorTests */,
 				CA55AD0F1E39A303004CCB5B /* LocalizadorUITests */,
@@ -234,6 +237,7 @@
 			files = (
 				CA55ACFB1E39A303004CCB5B /* LaunchScreen.storyboard in Resources */,
 				CA55ACF81E39A303004CCB5B /* Assets.xcassets in Resources */,
+				CAF272A91E3AAED900A55FD9 /* Podfile in Resources */,
 				CA55ACF61E39A303004CCB5B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -503,6 +507,7 @@
 				CA55AD171E39A303004CCB5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA55AD181E39A303004CCB5B /* Build configuration list for PBXNativeTarget "LocalizadorTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +516,7 @@
 				CA55AD1A1E39A303004CCB5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA55AD1B1E39A303004CCB5B /* Build configuration list for PBXNativeTarget "LocalizadorUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +525,7 @@
 				CA55AD1D1E39A303004CCB5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

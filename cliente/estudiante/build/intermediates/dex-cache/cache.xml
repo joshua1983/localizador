@@ -3,6 +3,267 @@
 
     <item
         is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_d0b072e5b9671d74140a2d590537a1ae0131c97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_fe810a6bb8d68376e6614b906962c29c53baa2f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_7e5d1fc3fe212ff5c12b1f286a601ee33beee6a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_44c6d43c5733d01b436f4cd928b09a5185a159a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_34c7996ccdcd8b7b478f306a95267279d435cba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_03c8d2afff7af23da08d0bb3c5f8629606e4955d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_d979bf3a1d4f770c974fe7c518a9cc29b7aaa832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_0280b5e164500d169262bbf0ea9bfa2c1421e6bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_706406eeeb98740f8a9151c6d817e8c761b27951/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_99a479ec8f301e527fa1409a51d525bcde841ad4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_8d1a21cb1f8bcc9f79585b18b20917fffaec4b04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_c02518c573356500138e8259b1416672a7232394/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_b336e3c2857fb9693dfa4db23ccec973702aefa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_6412ae5be20d7de8f41ce9a7712f217321db1983/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_cb0c2c784af05718bfc706d6a823311774e7fc79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_10095f03fe4f838350d273507ed3c57bd286a8c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_4bb8641a6e107899b0040e5bc198e1666e66d740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_9c45cd75dc5ff3088f5fb7ce6c0da1ad772d0c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2be36a16934eba260ee9bdb1d8bd60c4a656ea89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_64cfaa3515dd8df11f277a9f2607fff5581156ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbcd771d861d3550b2f17f307cb952840a2e4000">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_94bd313f69de69c53ef6dabdac9af1bd93791b40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_4c90119646cf1f1b57b1c04780903abe0af2b536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_77a7c4ed796c2e023ac7fc27c66616f47e41a220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_c51bc285bf17906f93dcfc9294c6dc5a43eedde0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_257ba29f181c8a6d52dde0dffdca2979210a8f14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_84f13b69e5e78922b95c60ca384a033e6798f032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_445ddd84a73db212b9274cfef7d89aa5c7c4cf9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_c17278776927933e19cbabc46ae8b31495a6f8ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_4e5f046ed75d8d97d2e9af3c228aa594037ebd07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -18,15 +279,6 @@
         revision="25.0.2"
         sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_80d44e392556e81ebcab5e69168bdbe9b42ced82/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1d193729baf37df3d902a423291423a0df7e3779">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_d0b072e5b9671d74140a2d590537a1ae0131c97a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -61,7 +313,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="27f20f190741c44bba231a74d323b02f31ad454d">
+        sha1="4160b4ceb00aa92952258545f56b4d8fa22746ac">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5d5840a404421024e9e8c00bad2f6236bd1bc08e/classes.dex" />
     </item>
     <item
@@ -72,15 +324,6 @@
         revision="25.0.2"
         sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_c8781b6218060246ed525978d1d0b9239487ab7b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_fe810a6bb8d68376e6614b906962c29c53baa2f4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,30 +390,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_7e5d1fc3fe212ff5c12b1f286a601ee33beee6a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_904ffda763790f7bc87d4f6ff511dd183e73ccd0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_44c6d43c5733d01b436f4cd928b09a5185a159a4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -192,75 +417,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_34c7996ccdcd8b7b478f306a95267279d435cba6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_03c8d2afff7af23da08d0bb3c5f8629606e4955d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_d979bf3a1d4f770c974fe7c518a9cc29b7aaa832/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_0280b5e164500d169262bbf0ea9bfa2c1421e6bd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_ee0b76336e03833f00f0a54798bf14f4661d7c41/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_706406eeeb98740f8a9151c6d817e8c761b27951/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_99a479ec8f301e527fa1409a51d525bcde841ad4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_8d1a21cb1f8bcc9f79585b18b20917fffaec4b04/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -273,24 +435,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_c02518c573356500138e8259b1416672a7232394/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_b336e3c2857fb9693dfa4db23ccec973702aefa3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -300,39 +444,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_6412ae5be20d7de8f41ce9a7712f217321db1983/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_4f2c943283360104bfdc996f1b44f30acbf5d54b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_cb0c2c784af05718bfc706d6a823311774e7fc79/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_10095f03fe4f838350d273507ed3c57bd286a8c1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -351,24 +468,6 @@
         revision="25.0.2"
         sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_a5ee9d4560943bfee337b065fb3487933004f38b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_4bb8641a6e107899b0040e5bc198e1666e66d740/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_9c45cd75dc5ff3088f5fb7ce6c0da1ad772d0c75/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -408,42 +507,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2be36a16934eba260ee9bdb1d8bd60c4a656ea89/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_64cfaa3515dd8df11f277a9f2607fff5581156ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1067661ae1abeb86cf22e137edba502ebe7b942c">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_94bd313f69de69c53ef6dabdac9af1bd93791b40/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_4c90119646cf1f1b57b1c04780903abe0af2b536/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -453,66 +516,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_77a7c4ed796c2e023ac7fc27c66616f47e41a220/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_2523946ee3850a98167446bb19a31b9d7b5e912b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_c51bc285bf17906f93dcfc9294c6dc5a43eedde0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_257ba29f181c8a6d52dde0dffdca2979210a8f14/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_84f13b69e5e78922b95c60ca384a033e6798f032/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_445ddd84a73db212b9274cfef7d89aa5c7c4cf9c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_c17278776927933e19cbabc46ae8b31495a6f8ad/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -540,15 +549,6 @@
         revision="25.0.2"
         sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
         <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_75839aceefb6121a097c3b9b3aa4c404fa34240d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
-        <dex dex="/Users/josue/proyectos/localizador/cliente/estudiante/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_4e5f046ed75d8d97d2e9af3c228aa594037ebd07/classes.dex" />
     </item>
     <item
         is-multidex="true"
