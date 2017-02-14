@@ -4,6 +4,7 @@ import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
@@ -15,6 +16,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 public class MapaBus extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
+    private TextView txtCoordenada;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +34,8 @@ public class MapaBus extends FragmentActivity implements OnMapReadyCallback {
                 actualizarUbicacion();
             }
         });
+
+        txtCoordenada = (TextView) findViewById(R.id.coordenada);
     }
 
 
@@ -48,14 +52,15 @@ public class MapaBus extends FragmentActivity implements OnMapReadyCallback {
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
 
-        Consulta cons = new Consulta(mMap);
+        Consulta cons = new Consulta(mMap, this.getApplicationContext(), txtCoordenada);
         cons.ubicar();
     }
 
     public void actualizarUbicacion(){
         if (mMap != null){
-            Consulta cons = new Consulta(mMap);
+            Consulta cons = new Consulta(mMap, this.getApplicationContext(), txtCoordenada);
             cons.ubicar();
+
         }
     }
 }

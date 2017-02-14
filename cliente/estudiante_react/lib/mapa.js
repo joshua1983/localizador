@@ -4,43 +4,78 @@ import {
         View,
         Alert,
         StyleSheet,
-        Text
+        Text,
+        Button
     } from 'react-native';
-import MapView, {MAP_TYPES} from 'react-native-maps';
+import MapView, {MAP_TYPES, Marker} from 'react-native-maps';
 
-
+let id=0;
+let URL = "http://ec2-52-24-181-82.us-west-2.compute.amazonaws.com:3000/data";
+let LATITUDE = 7.117127;
+let LONGITUDE = -73.105399;
 
 export default class Mapa extends Component{
+
+    state = {
+    // Ubicacion UNAB
+        latitude: 7.117127,
+        longitude: -73.105399,
+        latitudeDelta: 0.015,
+        longitudeDelta: 0.0121
+    }
+    
 
     constructor(props){
         super(props);
         this.state = this.props.state;
-
     }
 
+
+    componenDidMount(){
+        getUbicacion();
+    }
+
+    actualizarUbicacion(data){
+        
+        this.state.latitude = data.lat;
+        this.state.longitude = data.lon;
+        console.log(this.state);
+        
+    }
+
+    getUbicacion(){
+
+        fetch(URL)
+        .then((response) => response.json())
+        .then((data) => {
+            this.actualizarUbicacion(data);
+        })
+        .catch((error) => {
+            Alert.alert("error", error.message);
+        });
+    }
+
+
+
+
     render(){
+        
         return(
             <View style={estilos.mapa} >
-
+                    <Text></Text>
 
                     <MapView
                         style={estilos.map}
-                        provider={this.props.provider}
+                        provider={this.provider}
                         ref={ref => { this.map = ref; }}
-                        initialRegion={this.state}
-                        onRegionChange={region => this.onRegionChange(region)}
+                        initialRegion={this.props.state}
                     >
-                    <MapView.Marker
-                      coordinate={{
-                        latitude: this.state.latitude,
-                        longitude: this.state.longitude,
-                      }}
-                      centerOffset={{ x: -18, y: -60 }}
-                      anchor={{ x: 0.69, y: 1 }}
-                    />
-
+                        <MapView.Marker.Animated coordinate={this.props.state} />
+                    
+                
                     </MapView>
-                    <Text>{this.state.longitude} - {this.state.latitude}</Text>
+                    
+                    
              </View>
         );
     }
@@ -51,6 +86,9 @@ Mapa.propTypes = {
 };
 
 const estilos = StyleSheet.create({
+    boton:{
+        flex: 1
+    },
   mapa:{
     flex: 8,
     ///width: ancho,

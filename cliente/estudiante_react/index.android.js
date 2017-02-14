@@ -9,51 +9,98 @@ import {
   AppRegistry,
   StyleSheet,
   View,
+  Alert,
   Button,
-  Alert
+  Navigator,
+  TouchableHighlight,
+  Text
 } from 'react-native';
 
 import Titulo from './titulo';
 import Inicio from './inicio';
 import Mapa from './lib/mapa';
 
+let URL = "http://ec2-52-24-181-82.us-west-2.compute.amazonaws.com:3000/data";
+
+var NavigatorBarRouteMapper = {
+  LeftButton: function(route, navigator, index){
+    if (index > 0){
+    return (
+      <TouchableHighlight onPress={() => {
+        if (index > 0){
+          navigator.pop();
+        }
+        }} >
+          <Text style={{marginTop: 10, marginLeft:20, color: '#007AFF'}}>Atras</Text>
+        </TouchableHighlight>
+    );
+    }else{
+      return null;
+    }
+  },
+  RigthButton: function(route, navigator, index){
+    return null;
+  },
+  Title: function(route, navigator, index){
+    return(
+      <Text style={{marginTop:10, color: '#007AFF'}}>
+        {route.name}
+      </Text>
+    );
+  }
+};
+
+
 export default class estudiante_react extends Component {
 
+  renderScene(route, navigator){
+    switch(route.name){
+      case 'Mapa':
+        return (
+          <Mapa state={this.state} navigator={navigator} route={route}/>
+        )
+    }
+  }
+
+  state = {
+    // Ubicacion UNAB
+        region:{
+            latitude: 7.117127,
+            longitude: -73.105399,
+            latitudeDelta: 0.015,
+            longitudeDelta: 0.0121
+        },
+        coordinate: {
+            latitude:  7.117127,
+            longitude: -73.105399
+        }
+    }
+  
   constructor(props){
       super(props);
-      this.state = {
-          latitude: 37.78825,
-          longitude: -122.4324,
-          latitudeDelta: 0.015,
-          longitudeDelta: 0.0121
-      }
+      
   }
 
-  _handleResponse(response){
-    this.state.latitude = response.lat;
-    this.state.longitude = response.lon;
-
-  }
-
-  actualizarUbicacion(){
-      fetch('http://ec2-52-24-181-82.us-west-2.compute.amazonaws.com:3000/data')
-          .then(response => response.json())
-          .then(json => this._handleResponse(json.response))
-          .catch(error => {
-              Alert.alert("error", error.message);
-            });
-  }
-
+  
   render() {
     return (
       <View style={estilos.container}>
           <Titulo />
-          <Button
-              title ="Actualizar"
-              onPress= {this.actualizarUbicacion}
-          />
-          <Mapa state={this.state} />
-
+          <Navigator 
+            style={{backgroundColor: '#fff'}}
+            initialRoute={{name: 'Mapa'}}
+            renderScene={this.renderScene}
+            configureScene={(route, routeStack) => {
+              if (route.sceneConfig){
+                return route.sceneConfig;
+              }
+              return Navigator.SceneConfigs.FloatFromRight;
+            }}
+            navigationBar={
+              <Navigator.NavigationBar 
+                routeMapper={NavigatorBarRouteMapper} />
+            }>
+            </Navigator>
       </View>
     );
   }
